@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="toolbarTitle" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/open_sans_bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">30sp</item>
+</style>
+</resources>
